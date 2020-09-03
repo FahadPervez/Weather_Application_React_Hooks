@@ -1,4 +1,4 @@
-# Weather Applicatio
+# Weather Application
 Live weather information application using react hooks. The react app is calling the weather api and getting the live weather information from API.  
 
 # Technology
